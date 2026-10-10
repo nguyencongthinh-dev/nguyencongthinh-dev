@@ -28,17 +28,13 @@
   I enjoy turning real-world problems into useful, maintainable software — and I'm working towards <b>production-ready AI systems</b>.
 </p>
 
-```python
-class NguyenCongThinh:
-    role       = "AI / Python Developer"
-    working_on = ["AI-powered assistants", "Recommendation systems", "AIOps"]
-    learning   = ["LLMs", "Cloud architecture", "DevOps & automation"]
-    languages  = ["Tiếng Việt", "English"]
-    open_to    = "Collaboration on AI, Python and automation projects"
+<div align="center">
 
-    def motto(self):
-        return "Build useful things. Keep learning. Ship continuously."
-```
+<img width="100%" src="assets/about.svg" alt="Role: AI / Python Developer. Working on AI-powered assistants, recommendation systems and AIOps. Learning LLMs, cloud architecture, DevOps and automation. Languages: Vietnamese and English. Open to collaboration on AI, Python and automation projects." />
+
+<sub><i>Build useful things. Keep learning. Ship continuously.</i></sub>
+
+</div>
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0F172A,50:1D4ED8,100:06B6D4" alt="" />
 
@@ -171,18 +167,6 @@ class NguyenCongThinh:
 </div>
 
 <br/>
-
-<!-- ===================== TROPHIES ===================== -->
-<h2 align="center">🏆 Trophies</h2>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=nguyencongthinh-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" />
-  <img width="100%" alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=nguyencongthinh-dev&theme=flat&no-frame=true&no-bg=true&margin-w=12&column=7" />
-</picture>
-
-</div>
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0F172A,50:1D4ED8,100:06B6D4" alt="" />
 
