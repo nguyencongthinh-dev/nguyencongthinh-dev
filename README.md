@@ -1,8 +1,14 @@
 <div align="center">
 
-<img width="100%" src="assets/banner.svg" alt="Nguyen Cong Thinh — AI / Python Developer" />
+<img width="100%" src="assets/header.svg" alt="Nguyen Cong Thinh — AI / Python Developer" />
 
-<br/>
+<p>
+  <a href="#about">About</a> &nbsp;·&nbsp;
+  <a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#tech-stack">Tech Stack</a> &nbsp;·&nbsp;
+  <a href="#how-i-work">How I Work</a> &nbsp;·&nbsp;
+  <a href="#lets-connect">Contact</a>
+</p>
 
 <img src="https://img.shields.io/badge/FOCUS-AI%20%C2%B7%20PYTHON%20%C2%B7%20CLOUD-1D4ED8?style=flat-square" alt="Focus: AI, Python, Cloud" />
 <img src="https://img.shields.io/github/followers/nguyencongthinh-dev?label=FOLLOWERS&style=flat-square&color=334155&logo=github" alt="Followers" />
@@ -18,11 +24,28 @@
 
 I build practical software systems with a focus on **artificial intelligence, Python, automation and cloud technologies**. I enjoy turning real-world problems into useful, maintainable software, and I'm working towards **production-ready AI systems**.
 
-- **Role** — AI / Python Developer
-- **Working on** — AI-powered assistants, recommendation systems and AIOps
-- **Learning** — LLMs, cloud architecture, DevOps and automation
-- **Languages** — Vietnamese, English
-- **Open to** — Collaboration on AI, Python and automation projects
+<table>
+  <tr>
+    <td width="150"><b>Role</b></td>
+    <td>AI / Python Developer</td>
+  </tr>
+  <tr>
+    <td><b>Working on</b></td>
+    <td>AI-powered assistants, recommendation systems and AIOps</td>
+  </tr>
+  <tr>
+    <td><b>Learning</b></td>
+    <td>LLMs, cloud architecture, DevOps and automation</td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>Vietnamese, English</td>
+  </tr>
+  <tr>
+    <td><b>Open to</b></td>
+    <td>Collaboration on AI, Python and automation projects</td>
+  </tr>
+</table>
 
 ## What I Build
 
@@ -31,7 +54,7 @@ I build practical software systems with a focus on **artificial intelligence, Py
 | NLP, LLM applications, computer vision and intelligent assistants. | Python services, REST APIs and workflow automation. | Containerized apps, CI/CD pipelines and AIOps solutions. |
 
 ## Tech Stack
-
+ 
 | Area | Technologies |
 | --- | --- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-334155?style=flat-square&logo=typescript&logoColor=white) |
@@ -44,6 +67,7 @@ I build practical software systems with a focus on **artificial intelligence, Py
 <table>
   <tr>
     <td width="50%" valign="top">
+      <sub><b>AIOPS · MLOPS</b></sub>
       <h3><a href="https://github.com/nguyencongthinh-dev/ops-automation">Ops Automation Labs</a></h3>
       <p><i>AIOps closed-loop remediation and an end-to-end MLOps pipeline.</i></p>
       <ul>
@@ -57,6 +81,7 @@ I build practical software systems with a focus on **artificial intelligence, Py
       <p><a href="https://github.com/nguyencongthinh-dev/ops-automation"><b>View repository →</b></a></p>
     </td>
     <td width="50%" valign="top">
+      <sub><b>RAG · LLM APPLICATION</b></sub>
       <h3><a href="https://github.com/nguyencongthinh-dev/chatbot-aws">GeekBrain AI — AWS Chatbot</a></h3>
       <p><i>A RAG assistant on AWS Bedrock with tool use and cited answers.</i></p>
       <ul>
@@ -74,24 +99,16 @@ I build practical software systems with a focus on **artificial intelligence, Py
 
 ## How I Work
 
-- **Practical first** — start from a real problem, then pick the simplest tool that solves it well.
-- **Maintainable by design** — clean, readable and testable code that other people can build on.
-- **Ship continuously** — small iterations, automation and feedback loops on the way to production.
+| Practical first | Maintainable by design | Ship continuously |
+| --- | --- | --- |
+| Start from a real problem, then pick the simplest tool that solves it well. | Clean, readable and testable code that other people can build on. | Small iterations, automation and feedback loops on the way to production. |
 
 ## GitHub Stats
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nguyencongthinh-dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nguyencongthinh-dev&show_icons=true&theme=default&hide_border=true&border_radius=8&bg_color=F8FAFC&title_color=1D4ED8&icon_color=06B6D4&text_color=475569&count_private=true&include_all_commits=true&rank_icon=github" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyencongthinh-dev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=8" />
-  <img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyencongthinh-dev&layout=compact&langs_count=6&theme=default&hide_border=true&border_radius=8&bg_color=F8FAFC&title_color=1D4ED8&text_color=475569" />
-</picture>
-
-</div>
+<p align="center">
+  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nguyencongthinh-dev&show_icons=true&hide_border=true&border_radius=12&bg_color=0F172A&title_color=38BDF8&icon_color=06B6D4&text_color=CBD5E1&ring_color=3B82F6&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyencongthinh-dev&layout=compact&langs_count=6&hide_border=true&border_radius=12&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1" />
+</p>
 
 ## Let's Connect
 
