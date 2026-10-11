@@ -11,12 +11,12 @@
 </p>
 
 <img src="https://img.shields.io/badge/FOCUS-AI%20%C2%B7%20PYTHON%20%C2%B7%20CLOUD-1D4ED8?style=flat-square" alt="Focus: AI, Python, Cloud" />
-<img src="https://img.shields.io/github/followers/nguyencongthinh-dev?label=FOLLOWERS&style=flat-square&color=334155&logo=github" alt="Followers" />
+<!-- <img src="https://img.shields.io/github/followers/nguyencongthinh-dev?label=FOLLOWERS&style=flat-square&color=334155&logo=github" alt="Followers" /> -->
 <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-15803D?style=flat-square" alt="Open to collaboration" />
 
-<br/><br/>
+<!-- <br/><br/>
 
-<sub><i>Build useful things. Keep learning. Ship continuously.</i></sub>
+<sub><i>Build useful things. Keep learning. Ship continuously.</i></sub> -->
 
 </div>
 
